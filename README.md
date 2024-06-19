@@ -10,7 +10,11 @@ This repository contains my professional resume and portfolio. It includes detai
 This repository serves as a digital representation of my professional background and qualifications. It provides detailed information about my:
 
 # Skills 
+<<<<<<< HEAD
 List of skills relevant to my field, including software development, UI/UX design, and system reliability engineering.
+=======
+List of skills relevant to my field, including software development, and system reliability engineering.
+>>>>>>> gh-pages
 
 # Work Experience 
 Chronological list of my previous job positions, including roles such as Software Engineer.
