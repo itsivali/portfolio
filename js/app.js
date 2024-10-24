@@ -1,7 +1,7 @@
 // ------------------------------------------------
 // Project Name: Willis Ivali - Personal Portfolio 
 // Project Description: My digital life extends to the web
-// Last Update: March 2024
+// Last Update: August 2024
 // Author: willis ivali
 // File name: app.js
 // ------------------------------------------------
