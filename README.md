@@ -7,7 +7,7 @@ This repository contains my professional resume and portfolio. It includes detai
 - **index.html**: Main HTML file containing the structure and content of my resume.
 - **style.css**: CSS file for styling the resume.
 - **script.js**: JavaScript file for interactive elements on the resume.
-- **resume.pdf**: PDF version of my resume.
+- **ivali.pdf**: PDF version of my resume.
 
 ---
 
