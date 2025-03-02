@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This repository contains my professional resume and portfolio, showcasing my skills, work experience, education, and contact information. It reflects my commitment to building innovative, secure, and high-performing solutions that drive meaningful, positive change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsivali/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsivali/portfolio/issues"
+  },
+  "homepage": "https://github.com/itsivali/portfolio#readme"
+}
